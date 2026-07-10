@@ -6,5 +6,5 @@
 
 #### Tube Cruncher
 
-[View full source.](https://github.com/fowlersteven/fowlersteven.github.io/blob/main/index.md)
+[View full source.](https://github.com/fowlersteven/tube-cruncher)
 
